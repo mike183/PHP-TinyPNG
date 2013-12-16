@@ -15,7 +15,7 @@ For more information about TinyPNG or the TinyPNG API Documentation, please visi
 - [Example Usage](#example-usage)
 - [Example Responses](#example-responses)
 - [Troubleshooting](#troubleshooting)
-- [Issues / Pull Requests](#issues-pull-requests)
+- [Issues / Pull Requests](#issues--pull-requests)
 
 ## Usage
 
