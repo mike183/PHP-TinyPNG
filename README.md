@@ -42,7 +42,7 @@ For more information about TinyPNG or the TinyPNG API Documentation, please visi
     // Compress multiple images
     $images = array(
       "input.png"   => "output.png",
-      "input-2.png" => "output.png"
+      "input-2.png" => "output2.png"
     );
     $multipleImages = $tinypng -> compress($images);
     ?>
